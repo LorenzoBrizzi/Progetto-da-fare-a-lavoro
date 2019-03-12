@@ -1,1 +1,1 @@
-print f('ciao')
+print 'ciao'
